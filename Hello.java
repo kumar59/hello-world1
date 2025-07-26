@@ -6,6 +6,6 @@ public class Hello {
     // Prints "Hello, Globe" to the terminal window.
     public static void main(String[] args)
     {
-        System.out.println("Hello, Globe Master");
+        System.out.println("Hello, Globe Master1");
     }
 }
